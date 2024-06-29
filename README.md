@@ -1,5 +1,6 @@
-## Hi there 👋
+## Ian Samuels 👋
 
+**`Computer Engineering Student`**
 <!--
 **isamuels2900/isamuels2900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
