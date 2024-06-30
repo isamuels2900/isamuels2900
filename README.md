@@ -3,7 +3,6 @@
 **`Computer Engineering Student`**
 
 I am computer engineering student, I enjoy developing software from scratch as a way to learn how to use new technologies and also to develop tools that I or someone else may find fun or useful. 
-<a href="https://iansamuelspinnock.netlify.app/">My personal portfolio website link.</a>
 ---
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
