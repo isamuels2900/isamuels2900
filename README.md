@@ -3,7 +3,7 @@
 **`Computer Engineering Student`**
 
 <p>I am computer engineering student, I enjoy developing software from scratch as a way to learn how to use new technologies and also to develop tools that I or someone else may find fun or useful.</p>
-<p>I enjoy training martial arts, bodybuilding and listening to music.</p>
+<p>I enjoy training martial arts, bodybuilding, videogames and listening to music.</p>
 
 ---
 ### 🧰 Languages and Tools
